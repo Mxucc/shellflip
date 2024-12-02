@@ -1,6 +1,9 @@
 # shellflip
+
 [![crates.io](https://img.shields.io/crates/v/shellflip.svg)](https://crates.io/crates/shellflip)
 [![docs.rs](https://docs.rs/shellflip/badge.svg)](https://docs.rs/shellflip)
+
+**English**| [中文版](./README.zh-cn.md/)
 
 Graceful process restarts in Rust.
 

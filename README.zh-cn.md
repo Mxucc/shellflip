@@ -21,7 +21,7 @@ Rust 中的优雅进程重启。
 
 # 使用库
 
-一个完整的示例在 [restarter 示例服务](examples/restarter.rs) 中提供。
+一个完整的示例在 [restarter 示例服务](examples/restarter.zh-cn.rs) 中提供。
 
 主要感兴趣的结构体是 `RestartConfig`，它提供了检测或触发重启的方法。对于关闭已重启的进程，`ShutdownCoordinator` 提供了向派生任务发送关闭信号以及等待它们完成的方法。
 
